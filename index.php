@@ -5,19 +5,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>test</title>
 
-	<script type="text/javascript">
-		function test()
-		{
-			var x = 5;
-
-			alert("call test" + x);
-			console.log("call test.");
-		}
-
-		window.onload = function()
-		{
-			test();
-		}
+	<script type="text/javascript" src="js\test.js">
+	
 	</script>
 </head>
 <body>
